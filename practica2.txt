@@ -1,0 +1,26 @@
+DOCTYPE html>
+<html>
+<head>
+    
+    <title>Formulario</title>
+</head>
+
+<body>
+       <label>EDAD</label>
+<input list="edad" name="lista" />
+<datalist id="EDAD">
+    <option label="20" value="20">
+    <option label="21" value="21">
+    <option label="22" value="22">
+    <option label="23" value="23">
+    <option label="24" value="24">
+    <option label="25" value="25">
+    <option label="26" value="26">
+    <option label="27" value="27">
+    <option label="28" value="28">
+    <option label="29" value="29">
+    <option label="30" value="30">
+</datalist>
+
+</body>
+</html>
